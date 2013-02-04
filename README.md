@@ -1,4 +1,4 @@
-HSL navigator
+HSL Navigator
 =============
 
 
